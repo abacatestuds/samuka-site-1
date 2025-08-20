@@ -39,7 +39,7 @@
     background-color: #ffffff;
     display: grid;
     grid-auto-flow:column;
-    column:auto;
+    columns:auto;
 }
 #imagns{
     margin: 100px 25px 100px 100px;
@@ -77,7 +77,7 @@ input{
     padding-left: 10px;
 }
 botton{
-    backgroud-color:#c07212;
+    background-color:#c07212;
     height:70px;
     width:220px;
     color: #eaece5;
@@ -90,7 +90,7 @@ botton{
     cursor:pointer;
 }
 botton.houver{
-    backgroud-color:#f88e0c;
+    background-color:#f88e0c;
     color:white;
     transform:translateY (-3px);
     box-shadow:0px 10px 15px #f1bd73;
