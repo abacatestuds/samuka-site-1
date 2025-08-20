@@ -76,7 +76,7 @@ input{
     border-radius: 10px;
     padding-left: 10px;
 }
-botton{
+button{
     background-color:#c07212;
     height:70px;
     width:220px;
@@ -89,7 +89,7 @@ botton{
     font-size:30px;
     cursor:pointer;
 }
-botton.houver{
+button.houver{
     background-color:#f88e0c;
     color:white;
     transform:translateY (-3px);
