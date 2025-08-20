@@ -1,7 +1,7 @@
 *{
     margin:0px;
     font-family: monospace;
-
+    background-color: blueviolet;
 }
 #titulosuperior{
     margin-left: 50px;
@@ -17,10 +17,10 @@
     letter-spacing: opx;
 }
 #menusuperior{
-    background-color: rgb(243, 237, 237)
-    color(srgb rgb(21, 20, 20) green blue);
+    background-color: rgb(176, 26, 26)
+    color(srgb rgb(33, 175, 80) green blue);
 }
-#menuinformativo{background-color: black;
+#menuinformativo{background-color: rgb(186, 19, 166);
     display: grid;
     grid-auto-flow: coluna;
     column-span: auto;
@@ -36,7 +36,7 @@
     font-weight: normal;
 }
 #menuconteudo{
-    background-color: #ffffff;
+    background-color: #0fa6b7;
     display: grid;
     grid-auto-flow:column;
     columns:auto;
